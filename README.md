@@ -9,7 +9,7 @@ In this lab, I used the echo command to explore how input is received and how ou
 
 <h2>Completed Tasks in this Lab</h2>
 
-- <b>Generateing output in the shell with the echo command</b> 
+- <b>Generating output in the shell with the echo command</b> 
 - <b>Performing basic calculations with the expr command</b>
 - <b>Clearing the shell window with the clear command</b> 
 - <b>Exploring the commands further</b>
