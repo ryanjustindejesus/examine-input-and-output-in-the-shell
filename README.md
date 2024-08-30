@@ -1,4 +1,4 @@
-<h1>Installing software in a Linux Distribution</h1>
+<h1>Examining input and output in the shell</h1>
 
 
 
@@ -21,24 +21,12 @@ In this lab, I used the echo command to explore how input is received and how ou
 <h2>Lab walk-through:</h2>
 
 <p align="center">
-I used the command "apt" to confirm apt is installed in bash: <br/>
-<img src="https://i.imgur.com/EJoj96g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+I used the command "echo" to generate output in the bash shell: <br/>
+<img src="https://imgur.com/WYF2AgK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-I used the command "sudo apt install suricata" to install suricata with apt:  <br/>
-<img src="https://imgur.com/Vpo0tjS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-I used the command "sudo apt remove suricata" to uninstall suricata with apt: <br/>
-<img src="https://imgur.com/keopNUf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-I used the command "sudo apt install tcpdump" to install tcpdump with apt:  <br/>
-<img src="https://imgur.com/BjIHX00.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-I used the command "apt list --installed" to list all installed applications:  <br/>
-<img src="https://imgur.com/LQUVeyX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+I used the command "expr" to perform basic mathematical calculations install suricata with apt:  <br/>
+<img src="https://imgur.com/WsyGHfs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
