@@ -21,19 +21,16 @@ In this lab, I used the echo command to explore how input is received and how ou
  <h2>Task 1: Generate output with the echo command</h2>
 The echo command in the Bash shell outputs a specified string of text. 
  <br /> <br />
-I used the command "echo" to generate output in the bash shell.
-<br/> <br/>
-<p align="center">
+(1) I used the command "echo" to generate output in the bash shell.
+<br/> <br/> <p align="center">
 <img src="https://imgur.com/WYF2AgK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> <br />
 
   <h2>Task 2: Generate output with the expr command </h2>
 The expr command generates additional output in the Bash shell and can be useful when I need to quickly perform a calculation.
- 
-<p align="center"> <br /> 
-I used the command "expr" to perform basic mathematical calculations.
- <br/> <br/> 
- <p align="center">
+<br /> <br />
+(2) I used the command "expr" to perform basic mathematical calculations.
+ <br/> <br/>   <p align="center">
 <img src="https://imgur.com/WsyGHfs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> <br />
 
