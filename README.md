@@ -20,14 +20,18 @@ In this lab, I used the echo command to explore how input is received and how ou
 
 <h2>Lab walk-through:</h2>
  <h2>Task 1: Generate output with the echo command</h2>
-<p align="center">
+The echo command in the Bash shell outputs a specified string of text. 
+</b>
+<p align="center"> </b> 
 I used the command "echo" to generate output in the bash shell. <br/>
 <img src="https://imgur.com/WYF2AgK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
   <h2>Task 2: Generate output with the expr command </h2>
-<p align="center">
-I used the command "expr" to perform basic mathematical calculations install suricata with apt.  <br/>
+ In this task, I used the expr command to generate some additional output in the Bash shell. The expr command performs basic mathematical calculations and can be useful when I need to quickly perform a calculation.
+ 
+<p align="center">  </b> 
+I used the command "expr" to perform basic mathematical calculations.   <br/>
 <img src="https://imgur.com/WsyGHfs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
